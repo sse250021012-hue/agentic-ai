@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "C001",
+    "tier": "Platinum",
+    "points": 4850,
+    "rewards_available": ["Free Express Shipping", "₹1000 Birthday Voucher", "Early Access to Sale"]
+  },
+  {
+    "customer_id": "C002",
+    "tier": "Bronze",
+    "points": 320,
+    "rewards_available": ["Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C003",
+    "tier": "Gold",
+    "points": 2450,
+    "rewards_available": ["₹500 Voucher", "Early Access to Sale"]
+  },
+  {
+    "customer_id": "C004",
+    "tier": "Silver",
+    "points": 1200,
+    "rewards_available": ["Free Standard Shipping", "₹250 Voucher"]
+  },
+  {
+    "customer_id": "C005",
+    "tier": "Bronze",
+    "points": 150,
+    "rewards_available": []
+  },
+  {
+    "customer_id": "C006",
+    "tier": "Platinum",
+    "points": 6200,
+    "rewards_available": ["Free Express Shipping", "₹1500 Voucher", "Personal Stylist Session"]
+  },
+  {
+    "customer_id": "C007",
+    "tier": "Gold",
+    "points": 2800,
+    "rewards_available": ["₹500 Voucher", "Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C008",
+    "tier": "Silver",
+    "points": 950,
+    "rewards_available": ["₹250 Voucher"]
+  },
+  {
+    "customer_id": "C009",
+    "tier": "Bronze",
+    "points": 410,
+    "rewards_available": ["Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C010",
+    "tier": "Gold",
+    "points": 3100,
+    "rewards_available": ["₹500 Voucher", "Early Access to Sale", "Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C011",
+    "tier": "Silver",
+    "points": 1400,
+    "rewards_available": ["₹250 Voucher", "Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C012",
+    "tier": "Platinum",
+    "points": 5100,
+    "rewards_available": ["Free Express Shipping", "₹1000 Birthday Voucher"]
+  },
+  {
+    "customer_id": "C013",
+    "tier": "Bronze",
+    "points": 0,
+    "rewards_available": []
+  },
+  {
+    "customer_id": "C014",
+    "tier": "Gold",
+    "points": 2150,
+    "rewards_available": ["₹500 Voucher"]
+  },
+  {
+    "customer_id": "C015",
+    "tier": "Silver",
+    "points": 1100,
+    "rewards_available": ["₹250 Voucher"]
+  },
+  {
+    "customer_id": "C016",
+    "tier": "Bronze",
+    "points": 280,
+    "rewards_available": []
+  },
+  {
+    "customer_id": "C017",
+    "tier": "Gold",
+    "points": 2950,
+    "rewards_available": ["₹500 Voucher", "Early Access to Sale"]
+  },
+  {
+    "customer_id": "C018",
+    "tier": "Platinum",
+    "points": 7500,
+    "rewards_available": ["Free Express Shipping", "₹2000 Voucher", "Exclusive Capsule Collection Access"]
+  },
+  {
+    "customer_id": "C019",
+    "tier": "Silver",
+    "points": 850,
+    "rewards_available": ["Free Standard Shipping"]
+  },
+  {
+    "customer_id": "C020",
+    "tier": "Bronze",
+    "points": 490,
+    "rewards_available": ["Free Standard Shipping"]
+  }
+]

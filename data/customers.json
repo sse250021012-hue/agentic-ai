@@ -1,0 +1,182 @@
+[
+  {
+    "customer_id": "C001",
+    "age_group": "25-34",
+    "occupation": "PR Executive",
+    "budget_range": [8000, 15000],
+    "preferred_style": "Minimalist Chic",
+    "preferred_channels": ["Mobile App", "Instagram"],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C002",
+    "age_group": "18-24",
+    "occupation": "Fashion Design Student",
+    "budget_range": [3000, 6000],
+    "preferred_style": "Avant-Garde",
+    "preferred_channels": ["Instagram", "TikTok"],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C003",
+    "age_group": "35-44",
+    "occupation": "Corporate Lawyer",
+    "budget_range": [20000, 45000],
+    "preferred_style": "Elevated Tailoring",
+    "preferred_channels": ["In-Store", "Website"],
+    "loyalty_tier": "Diamond"
+  },
+  {
+    "customer_id": "C004",
+    "age_group": "25-34",
+    "occupation": "Architect",
+    "budget_range": [10000, 22000],
+    "preferred_style": "Monochromatic Structured",
+    "preferred_channels": ["Website", "Mobile App"],
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "C005",
+    "age_group": "18-24",
+    "occupation": "Social Media Influencer",
+    "budget_range": [7000, 14000],
+    "preferred_style": "Trending Runway Look",
+    "preferred_channels": ["Instagram", "WhatsApp"],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C006",
+    "age_group": "35-44",
+    "occupation": "Creative Director",
+    "budget_range": [15000, 35000],
+    "preferred_style": "Bohemian Luxury",
+    "preferred_channels": ["In-Store", "Instagram"],
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "C007",
+    "age_group": "25-34",
+    "occupation": "Software Engineer",
+    "budget_range": [5000, 11000],
+    "preferred_style": "Smart Casual",
+    "preferred_channels": ["Website", "Email"],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C008",
+    "age_group": "45-54",
+    "occupation": "Art Gallery Curator",
+    "budget_range": [18000, 40000],
+    "preferred_style": "Asymmetric Minimalist",
+    "preferred_channels": ["In-Store", "Newsletter"],
+    "loyalty_tier": "Diamond"
+  },
+  {
+    "customer_id": "C009",
+    "age_group": "18-24",
+    "occupation": "University Student",
+    "budget_range": [2500, 5000],
+    "preferred_style": "Y2K Edgy Streetwear",
+    "preferred_channels": ["TikTok", "Mobile App"],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C010",
+    "age_group": "25-34",
+    "occupation": "Marketing Manager",
+    "budget_range": [9000, 18000],
+    "preferred_style": "Sleek Power Dressing",
+    "preferred_channels": ["Mobile App", "Instagram"],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C011",
+    "age_group": "35-44",
+    "occupation": "Interior Designer",
+    "budget_range": [12000, 25000],
+    "preferred_style": "Relaxed Tailoring",
+    "preferred_channels": ["In-Store", "Website"],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C012",
+    "age_group": "25-34",
+    "occupation": "HR Consultant",
+    "budget_range": [6000, 12000],
+    "preferred_style": "Classic Contemporary",
+    "preferred_channels": ["Website", "Email"],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C013",
+    "age_group": "45-54",
+    "occupation": "Real Estate Broker",
+    "budget_range": [15000, 30000],
+    "preferred_style": "Premium Executive",
+    "preferred_channels": ["In-Store", "Mobile App"],
+    "loyalty_tier": "Platinum"
+  },
+  {
+    "customer_id": "C014",
+    "age_group": "18-24",
+    "occupation": "Freelance Copywriter",
+    "budget_range": [4000, 8000],
+    "preferred_style": "Retro Eclectic",
+    "preferred_channels": ["Instagram", "Pinterest"],
+    "loyalty_tier": "Bronze"
+  },
+  {
+    "customer_id": "C015",
+    "age_group": "25-34",
+    "occupation": "Event Planner",
+    "budget_range": [8500, 16000],
+    "preferred_style": "Glam & Night-Out Trendy",
+    "preferred_channels": ["Mobile App", "WhatsApp"],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C016",
+    "age_group": "35-44",
+    "occupation": "Journalist",
+    "budget_range": [7000, 15000],
+    "preferred_style": "Utility Chic",
+    "preferred_channels": ["Website", "In-Store"],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C017",
+    "age_group": "18-24",
+    "occupation": "Model / Agency Assistant",
+    "budget_range": [5000, 10000],
+    "preferred_style": "Off-Duty Model Casual",
+    "preferred_channels": ["Instagram", "TikTok"],
+    "loyalty_tier": "Silver"
+  },
+  {
+    "customer_id": "C018",
+    "age_group": "45-54",
+    "occupation": "Investment Banker",
+    "budget_range": [25000, 60000],
+    "preferred_style": "High-End Tailored Capsule",
+    "preferred_channels": ["In-Store", "Email"],
+    "loyalty_tier": "Diamond"
+  },
+  {
+    "customer_id": "C019",
+    "age_group": "25-34",
+    "occupation": "UX Designer",
+    "budget_range": [6500, 13000],
+    "preferred_style": "Minimalist Utility",
+    "preferred_channels": ["Mobile App", "Website"],
+    "loyalty_tier": "Gold"
+  },
+  {
+    "customer_id": "C020",
+    "age_group": "35-44",
+    "occupation": "PR Director",
+    "budget_range": [22000, 50000],
+    "preferred_style": "Sophisticated Statement",
+    "preferred_channels": ["In-Store", "Mobile App"],
+    "loyalty_tier": "Diamond"
+  }
+]

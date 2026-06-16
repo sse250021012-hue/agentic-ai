@@ -1,0 +1,150 @@
+[
+    {
+        "customer_id": "C001",
+        "event_type": "view",
+        "channel": "Instagram",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:17:43.563779"
+    },
+    {
+        "customer_id": "C001",
+        "event_type": "wishlist",
+        "channel": "Website",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:23:35.354389"
+    },
+    {
+        "customer_id": "C001",
+        "event_type": "wishlist",
+        "channel": "Website",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:24:19.069855"
+    },
+    {
+        "customer_id": "C001",
+        "event_type": "cart",
+        "channel": "Website",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:24:59.079584"
+    },
+    {
+        "customer_id": "C001",
+        "event_type": "payment_failed",
+        "channel": "Website",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:25:17.255305"
+    },
+    {
+        "customer_id": "C001",
+        "event_type": "purchase",
+        "channel": "WhatsApp",
+        "sku": "272145190-250-2",
+        "timestamp": "2026-06-15 23:25:40.889959"
+    },
+    {
+        "customer_id": "C002",
+        "event_type": "view",
+        "channel": "Website",
+        "sku": "324052738-800-46",
+        "timestamp": "2026-06-16 10:08:00"
+    },
+    {
+        "customer_id": "C002",
+        "event_type": "wishlist",
+        "channel": "Website",
+        "sku": "324052738-800-46",
+        "timestamp": "2026-06-18 11:00:00"
+    },
+    {
+        "customer_id": "C002",
+        "event_type": "cart",
+        "channel": "Website",
+        "sku": "324052738-800-46",
+        "timestamp": "2026-06-18 11:12:00"
+    },
+    {
+    "customer_id": "C003",
+    "event_type": "view",
+    "channel": "Instagram",
+    "sku": "335342680-800-44",
+    "timestamp": "2026-06-16 10:00:00"
+},
+{
+    "customer_id": "C003",
+    "event_type": "purchase",
+    "channel": "Website",
+    "sku": "335342680-800-44",
+    "timestamp": "2026-06-16 10:05:00"
+},
+{
+    "customer_id": "C003",
+    "event_type": "view",
+    "channel": "Instagram",
+    "sku": "328303236-420-44",
+    "timestamp": "2026-06-18 11:00:00"
+},
+{
+    "customer_id": "C003",
+    "event_type": "purchase",
+    "channel": "Website",
+    "sku": "328303236-420-44",
+    "timestamp": "2026-06-18 11:10:00"
+},
+  {
+    "customer_id": "C004",
+    "event_type": "view",
+    "channel": "Website",
+    "sku": "312368260-800-2",
+    "timestamp": "2026-06-16 12:00:00"
+},
+{
+    "customer_id": "C004",
+    "event_type": "view",
+    "channel": "Website",
+    "sku": "312368260-800-2",
+    "timestamp": "2026-06-16 12:05:00"
+},
+{
+    "customer_id": "C004",
+    "event_type": "view",
+    "channel": "Website",
+    "sku": "312368260-800-2",
+    "timestamp": "2026-06-16 12:10:00"
+},
+{
+    "customer_id": "C004",
+    "event_type": "view",
+    "channel": "Website",
+    "sku": "312368260-800-2",
+    "timestamp": "2026-06-16 12:15:00"
+},
+  {
+    "customer_id": "C005",
+    "event_type": "view",
+    "channel": "Instagram",
+    "sku": "320298385-807-2",
+    "timestamp": "2026-06-16 14:00:00"
+},
+{
+    "customer_id": "C005",
+    "event_type": "wishlist",
+    "channel": "Mobile App",
+    "sku": "320298385-807-2",
+    "timestamp": "2026-06-16 14:10:00"
+},
+{
+    "customer_id": "C005",
+    "event_type": "cart",
+    "channel": "Website",
+    "sku": "320298385-807-2",
+    "timestamp": "2026-06-16 14:20:00"
+},
+{
+    "customer_id": "C005",
+    "event_type": "purchase",
+    "channel": "Store",
+    "sku": "320298385-807-2",
+    "timestamp": "2026-06-16 14:30:00"
+}
+
+]

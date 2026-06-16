@@ -1,0 +1,27 @@
+{
+    "C003": {
+        "preferred_channel": "Instagram",
+        "favorite_category": "jackets",
+        "purchase_intent": "Very High"
+    },
+    "C001": {
+        "preferred_channel": "Website",
+        "favorite_category": "jackets",
+        "purchase_intent": "Very High"
+    },
+    "C002": {
+        "preferred_channel": "Website",
+        "favorite_category": "jackets",
+        "purchase_intent": "High"
+    },
+    "C005": {
+        "preferred_channel": "Instagram",
+        "favorite_category": "jackets",
+        "purchase_intent": "Very High"
+    },
+    "C004": {
+        "preferred_channel": "Website",
+        "favorite_category": "jackets",
+        "purchase_intent": "Low"
+    }
+}

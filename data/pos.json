@@ -1,0 +1,182 @@
+[
+  {
+    "transaction_id": "TXN_10001",
+    "customer_id": "C001",
+    "amount": 5990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T14:40:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10002",
+    "customer_id": "C003",
+    "amount": 6990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T16:25:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10003",
+    "customer_id": "C004",
+    "amount": 2990.00,
+    "payment_method": "Debit Card",
+    "timestamp": "2026-06-11T20:00:00Z",
+    "status": "card declined",
+    "failure_reason": "Insufficient Funds"
+  },
+  {
+    "transaction_id": "TXN_10004",
+    "customer_id": "C004",
+    "amount": 2990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T20:02:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10005",
+    "customer_id": "C006",
+    "amount": 8990.00,
+    "payment_method": "Net Banking",
+    "timestamp": "2026-06-11T11:20:00Z",
+    "status": "bank timeout",
+    "failure_reason": "Gateway Response Timeout"
+  },
+  {
+    "transaction_id": "TXN_10006",
+    "customer_id": "C007",
+    "amount": 2990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T22:15:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10007",
+    "customer_id": "C008",
+    "amount": 9990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T19:12:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10008",
+    "customer_id": "C010",
+    "amount": 8990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T12:43:00Z",
+    "status": "UPI failure",
+    "failure_reason": "Incorrect UPI PIN Entered"
+  },
+  {
+    "transaction_id": "TXN_10009",
+    "customer_id": "C010",
+    "amount": 8990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T12:45:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10010",
+    "customer_id": "C012",
+    "amount": 3990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T10:02:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10011",
+    "customer_id": "C013",
+    "amount": 5990.00,
+    "payment_method": "Debit Card",
+    "timestamp": "2026-06-11T11:55:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10012",
+    "customer_id": "C014",
+    "amount": 2990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T19:42:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10013",
+    "customer_id": "C015",
+    "amount": 4990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T20:28:00Z",
+    "status": "card declined",
+    "failure_reason": "Suspected Fraud / Restricted Card"
+  },
+  {
+    "transaction_id": "TXN_10014",
+    "customer_id": "C015",
+    "amount": 4990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T20:30:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10015",
+    "customer_id": "C016",
+    "amount": 8990.00,
+    "payment_method": "Net Banking",
+    "timestamp": "2026-06-11T16:28:00Z",
+    "status": "bank timeout",
+    "failure_reason": "No Response from Remitter Bank"
+  },
+  {
+    "transaction_id": "TXN_10016",
+    "customer_id": "C017",
+    "amount": 1790.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T11:15:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10017",
+    "customer_id": "C018",
+    "amount": 11990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T10:00:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10018",
+    "customer_id": "C020",
+    "amount": 6990.00,
+    "payment_method": "UPI",
+    "timestamp": "2026-06-11T15:58:00Z",
+    "status": "UPI failure",
+    "failure_reason": "PSP App Server Down"
+  },
+  {
+    "transaction_id": "TXN_10019",
+    "customer_id": "C020",
+    "amount": 6990.00,
+    "payment_method": "Debit Card",
+    "timestamp": "2026-06-11T16:00:00Z",
+    "status": "success",
+    "failure_reason": null
+  },
+  {
+    "transaction_id": "TXN_10020",
+    "customer_id": "C001",
+    "amount": 7990.00,
+    "payment_method": "Credit Card",
+    "timestamp": "2026-06-11T19:45:00Z",
+    "status": "success",
+    "failure_reason": null
+  }
+]
