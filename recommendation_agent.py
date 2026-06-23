@@ -3,7 +3,7 @@ import json
 
 products = pd.read_csv("data/products.csv")
 products["price_inr"] = (
-    products["price"] * 85
+    products["price"] * 95
 ).round()
 
 with open("data/inventory.json", "r") as f:
